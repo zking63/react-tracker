@@ -10,8 +10,8 @@ This is a wildfire tracker that uses the NASA's EONET API and the Google Maps AP
 * Extracts data from NASA's EONET API using the Fetch API and Async-Await and transforms it 
 
 ## Technologies
-HTML5 | CSS | JavaScript | React.js 
-**KEY APIs:** Google Map API | NASA's EONET API | Fetch API | React Hooks API | Iconify API
+**Languages & Libraries:** HTML5 | CSS | JavaScript | React.js  
+**KEY APIs:** Google Map API | NASA's EONET API | Fetch API | React Hooks API | Iconify API  
 **TOOLS:** Visual Studio Code 
 
 ## Demos
