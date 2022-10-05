@@ -16,4 +16,4 @@ HTML5 | CSS | JavaScript | React.js
 
 ## Demos
 ### Map
-![Search](/reactmap.gif)
+![Search](/reactmaps.gif)
